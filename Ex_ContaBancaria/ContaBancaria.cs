@@ -1,7 +1,6 @@
 ﻿namespace Ex_ContaBancaria
 {
     class ContaBancaria
-        //testeBack
     {
         public string Numero { get; private set; }
         public double Saldo { get; private set; }
