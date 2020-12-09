@@ -2,7 +2,6 @@
 {
     class ContaBancaria
     {
-        //teste
         public string Numero { get; private set; }
         public double Saldo { get; private set; }
         public string Titular { get; set; }
